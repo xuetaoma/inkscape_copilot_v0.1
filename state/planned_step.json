@@ -1,0 +1,35 @@
+{
+  "prompt": "make a new square",
+  "plan": {
+    "summary": "Create a new square as a rectangle with equal width and height on the canvas.",
+    "actions": [
+      {
+        "kind": "create_rectangle",
+        "params": {
+          "count": null,
+          "cx": null,
+          "cy": null,
+          "degrees": null,
+          "hex": null,
+          "delta_x_px": null,
+          "delta_y_px": null,
+          "fill_hex": "#2563eb",
+          "height": 120,
+          "opacity_percent": null,
+          "percent": null,
+          "prefix": null,
+          "radius": null,
+          "stroke_hex": null,
+          "stroke_width_px": null,
+          "width": 120,
+          "x": 100,
+          "y": 100
+        }
+      }
+    ],
+    "needs_confirmation": false
+  },
+  "ready_to_apply": true,
+  "created_at": "2026-04-22T15:59:35.053612+00:00",
+  "updated_at": "2026-04-22T15:59:35.053629+00:00"
+}

@@ -1,0 +1,2 @@
+"""Inkscape copilot prototype package."""
+

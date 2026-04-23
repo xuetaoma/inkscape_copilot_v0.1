@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>Open Copilot Chat</name>
+  <id>com.xuetaoma.inkscapecopilot.openwindow</id>
+  <effect needs-live-preview="false">
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu name="Copilot"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command location="extensions" interpreter="python">inkscape_copilot/open_window.py</command>
+  </script>
+</inkscape-extension>
